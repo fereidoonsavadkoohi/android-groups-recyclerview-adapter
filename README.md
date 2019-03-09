@@ -70,4 +70,5 @@ Group group2 = MyModel2Group(myModel2List);
 adapter.addGroup(group2);
 
 ...
+if  (true){}
 ```
